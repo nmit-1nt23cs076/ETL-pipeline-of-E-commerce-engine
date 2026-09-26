@@ -159,5 +159,4 @@ streamlit run app.py
    ➔ **Route:** `🟢 HYBRID ROUTE`  
    ➔ Filters phones under budget threshold in SQLite DB and evaluates positive review embeddings in ChromaDB.
 
-4. **Multi-Run Price History:**  
-   Click **"Run ETL Pipeline Now"** in the Streamlit sidebar multiple times to simulate daily price snapshots and view multi-snapshot price trend line charts on the Dashboard!
+
